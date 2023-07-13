@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-prevent-screenshot-coffice",
+  "name": "NoScreenshot",
   "version": "1.0.2",
   "description": "Cordova plugin for prevent screenCapture",
   "cordova": {
-    "id": "cordova-plugin-prevent-screenshot-coffice",
+    "id": "cordova-plugin-no-screenshot",
     "platforms": [
       "ios",
       "android"
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flotrugliocoffice/cordova-plugin-prevent-screenshot-coffice.git"
+    "url": "git+https://github.com/fahadkhn52/NoScreenshot.git"
   },
-  "author": "Francesco Lo Truglio <flotruglio@cofficegroup.com> (https://www.cofficegroup.com)",
+  "author": "Sheikh Fahad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flotrugliocoffice/cordova-plugin-prevent-screenshot-coffice/issues"
+    "url": "https://github.com/fahadkhn52/NoScreenshot/issues"
   },
   "scripts": {
     "version": "replace -s 'version=\"(.+)(?=\">)' 'version=\"'$npm_package_version plugin.xml && git add plugin.xml",
     "postversion": "git push && git push --tags"
   },
-  "homepage": "https://github.com/flotrugliocoffice/cordova-plugin-prevent-screenshot-coffice#readme",
+  "homepage": "https://github.com/fahadkhn52/NoScreenshot#readme",
   "keywords": [
     "cordova",
     "screencapture",
