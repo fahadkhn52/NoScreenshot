@@ -1,9 +1,9 @@
 {
   "name": "NoScreenshot",
   "version": "1.0.2",
-  "description": "Cordova plugin for prevent screenCapture",
+  "description": "Cordova plugin for preventing screenShot",
   "cordova": {
-    "id": "cordova-plugin-no-screenshot",
+    "id": "cordova-plugin-NoScreenshot",
     "platforms": [
       "ios",
       "android"
