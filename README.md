@@ -1,5 +1,4 @@
-# cordova-plugin-prevent-screenshot-coffice
-
+# cordova-plugin-No-screenshot
 This is a cordova plugin to enable/disable screenshots in android and ios 
 
 ## Supported Platforms
