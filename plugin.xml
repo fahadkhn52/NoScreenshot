@@ -23,12 +23,12 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="screenshotName">
-                <param name="android-package" value="com.fahad.ScreenshotBlocker"/>
+                <param name="android-package" value="com.coffice.ScreenshotBlocker"/>
                 <param name="onload" value="true"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/com/fahad/ScreenshotBlocker.java" target-dir="src/com/fahad"/>
+        <source-file src="src/android/com/coffice/ScreenshotBlocker.java" target-dir="src/com/coffice"/>
     </platform>
 
     <platform name="ios">
